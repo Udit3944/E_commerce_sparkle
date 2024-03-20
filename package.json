@@ -1,0 +1,20 @@
+{
+  "name": "portfolio_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
